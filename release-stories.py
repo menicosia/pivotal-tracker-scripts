@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Print out the stories that were compled during the last iteration.
+# Print out the stories that were completed by tracking a specific label.
 
 import getopt, os, sys
 import httplib, urllib
